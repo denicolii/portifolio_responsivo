@@ -189,3 +189,218 @@ nav {
     transform: scale(0.95) rotateZ(1.7deg);
   }
 
+  .text {
+    margin-top: 450px;
+  }
+
+  .text h5 {
+    text-transform: uppercase;
+    color: #f4fefd;
+  }
+  .text p {
+    color: #1A96B8;
+  }
+
+  .text2 {
+    margin-top: 450px;
+  }
+
+  .text2 h5 {
+    text-transform: uppercase;
+    color: #f4fefd;
+  }
+  .text2 p {
+    color: #1A96B8;
+  }
+
+  .card4   {
+    float: left;
+    margin-top: 50px;
+    margin-left: 100px;
+    box-sizing: border-box;
+    width: 190px;
+    height: 254px;
+    background-image: url(./img/museu.png);
+    border: 1px solid white;
+    box-shadow: 12px 17px 51px rgba(0, 0, 0, 0.22);
+    backdrop-filter: blur(6px);
+    border-radius: 17px;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.5s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    user-select: none;
+    font-weight: bolder;
+    color: black;
+  }
+  
+  .card4:hover {
+    border: 1px solid black;
+    transform: scale(1.05);
+  }
+  
+  .card4:active {
+    transform: scale(0.95) rotateZ(1.7deg);
+  }
+
+  
+  .card5  {
+    float: left;
+    margin-top: 350px;
+    margin-left: 100px;
+    box-sizing: border-box;
+    width: 190px;
+    height: 254px;
+    background-image: url(./img/harry.png);
+    border: 1px solid white;
+    box-shadow: 12px 17px 51px rgba(0, 0, 0, 0.22);
+    backdrop-filter: blur(6px);
+    border-radius: 17px;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.5s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    user-select: none;
+    font-weight: bolder;
+    color: black;
+  }
+  
+  .card5:hover {
+    border: 1px solid black;
+    transform: scale(1.05);
+  }
+  
+  .card5:active {
+    transform: scale(0.95) rotateZ(1.7deg);
+  }
+
+  .card6  {
+    float: left;
+    margin-top: 350px;
+    margin-left: 100px;
+    box-sizing: border-box;
+    width: 190px;
+    height: 254px;
+    background-image: url(./img/hotel.png);
+    border: 1px solid white;
+    box-shadow: 12px 17px 51px rgba(0, 0, 0, 0.22);
+    backdrop-filter: blur(6px);
+    border-radius: 17px;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.5s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    user-select: none;
+    font-weight: bolder;
+    color: black;
+  }
+  
+  .card6:hover {
+    border: 1px solid black;
+    transform: scale(1.05);
+  }
+  
+  .card6:active {
+    transform: scale(0.95) rotateZ(1.7deg);
+  }
+
+  .card7  {
+    float: left;
+    margin-top: 350px;
+    margin-left: 100px;
+    box-sizing: border-box;
+    width: 190px;
+    height: 254px;
+    background-image: url(./img/jornal.png);
+    border: 1px solid white;
+    box-shadow: 12px 17px 51px rgba(0, 0, 0, 0.22);
+    backdrop-filter: blur(6px);
+    border-radius: 17px;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.5s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    user-select: none;
+    font-weight: bolder;
+    color: black;
+  }
+  
+  .card7:hover {
+    border: 1px solid black;
+    transform: scale(1.05);
+  }
+  
+  .card7:active {
+    transform: scale(0.95) rotateZ(1.7deg);
+  }
+
+  .card8  {
+    float: left;
+    margin-top: 350px;
+    margin-left: 100px;
+    box-sizing: border-box;
+    width: 190px;
+    height: 254px;
+    background-image: url(./img/luffy.png);
+    border: 1px solid white;
+    box-shadow: 12px 17px 51px rgba(0, 0, 0, 0.22);
+    backdrop-filter: blur(6px);
+    border-radius: 17px;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.5s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    user-select: none;
+    font-weight: bolder;
+    color: black;
+  }
+  
+  .card8:hover {
+    border: 1px solid black;
+    transform: scale(1.05);
+  }
+  
+  .card8:active {
+    transform: scale(0.95) rotateZ(1.7deg);
+  }
+
+
+
+  @media screen and (max-width: 600px) {
+    main {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    #projetos {
+      margin-bottom: 350px;
+    }
+
+    .card5 {
+      margin-top: 50px;
+    }
+
+    .card6 {
+      margin-top: 50px;
+    }
+
+    .card7 {
+      margin-top: 50px;
+    }
+
+    .card8 {
+      margin-top: 50px;
+    }
+    
+}
