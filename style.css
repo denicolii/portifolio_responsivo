@@ -376,7 +376,7 @@ nav {
 
 
 
-  @media screen and (max-width: 600px) {
+  @media screen and (min-width: 600px) {
     main {
       display: flex;
       justify-content: center;
@@ -387,43 +387,6 @@ nav {
     #projetos {
       margin-bottom: 350px;
       margin-left: 150px;
-    }
-
-    .card5 {
-      margin-top: 50px;
-    }
-
-    .card6 {
-      margin-top: 50px;
-    }
-
-    .card7 {
-      margin-top: 50px;
-    }
-
-    .card8 {
-      margin-top: 50px;
-    }
-    
-}
-
-
-@media only screen 
-  and (min-device-width: 375px) 
-  and (max-device-width: 812px)
-  and (-webkit-device-pixel-ratio: 3) {
-
-    /*  estilos para iPhone aqui */
-
-    main {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      
-    }
-
-    #projetos {
-      margin-bottom: 350px;
     }
 
     .card5 {
