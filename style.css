@@ -164,7 +164,7 @@ nav {
     box-sizing: border-box;
     width: 190px;
     height: 254px;
-    background-image: url(./img/spiderman.png);
+    background-image: url(./img/imc.png);
     border: 1px solid white;
     box-shadow: 12px 17px 51px rgba(0, 0, 0, 0.22);
     backdrop-filter: blur(6px);
@@ -406,3 +406,15 @@ nav {
     }
     
 }
+
+footer {
+  display: flex;
+ 
+  margin-bottom: 80px;
+}
+
+.git {
+  margin-top: 1200px;
+  margin-left: 250px;
+}
+
