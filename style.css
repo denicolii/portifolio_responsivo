@@ -404,7 +404,27 @@ nav {
     .card8 {
       margin-top: 50px;
     }
+
+
+    footer {
+      margin-bottom: 0;
+    }
     
+    
+    .git {
+      display: block;
+      margin-top: 1500px;
+      margin-left: 0;
+    }
+    
+    .wpp a {
+      display: block;
+      margin-left: 680px;
+      margin-top: -60px ;
+      padding-left: 0;
+    }
+
+      
 }
 
 footer {
