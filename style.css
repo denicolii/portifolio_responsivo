@@ -408,13 +408,20 @@ nav {
 }
 
 footer {
-  display: flex;
- 
-  margin-bottom: 80px;
+  margin-bottom: 30px;
 }
 
+
 .git {
+  display: block;
   margin-top: 1200px;
-  margin-left: 250px;
+  margin-left: 600px;
+}
+
+.wpp a {
+  display: block;
+  margin-left: 680px;
+  margin-top: -60px ;
+  padding-left: 10px;
 }
 
