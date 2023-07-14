@@ -253,7 +253,7 @@ nav {
     box-sizing: border-box;
     width: 190px;
     height: 254px;
-    background-image: url(./img/harry.png);
+    background-image: url(./img/finans.png);
     border: 1px solid white;
     box-shadow: 12px 17px 51px rgba(0, 0, 0, 0.22);
     backdrop-filter: blur(6px);
@@ -404,44 +404,9 @@ nav {
     .card8 {
       margin-top: 50px;
     }
-
-
-    footer {
-      margin-bottom: 0;
-    }
     
-    
-    .git {
-      display: block;
-      margin-top: 1500px;
-      margin-left: 0;
-    }
-    
-    .wpp a {
-      display: block;
-      margin-left: 680px;
-      margin-top: -60px ;
-      padding-left: 0;
-    }
-
-      
-}
-
-footer {
-  margin-bottom: 30px;
 }
 
 
-.git {
-  display: block;
-  margin-top: 1200px;
-  margin-left: 600px;
-}
 
-.wpp a {
-  display: block;
-  margin-left: 680px;
-  margin-top: -60px ;
-  padding-left: 10px;
-}
 
